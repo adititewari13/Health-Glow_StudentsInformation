@@ -46,5 +46,12 @@ public class childInfoService implements InfoService {
 		return e;
 	}
 	
-
+	@Override
+	public void deleteDet(long id)
+	{
+//		Optional<Student> s= d.findById(id);
+		d.deleteById(id);
+//		return ("Your deleted Student "+s);
+//		return s;
+	}
 }
