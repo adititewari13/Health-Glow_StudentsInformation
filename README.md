@@ -24,6 +24,9 @@ spring.data.mongodb.port= 27017
 spring.data.mongodb.database= record
 
 ```
+
+## API URLs for Student Information:
+![image for API URLs](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/URL_Table.png)
 <br>
 <br>
 <br>
