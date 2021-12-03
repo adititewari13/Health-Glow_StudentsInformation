@@ -4,11 +4,11 @@ Intern Assignment (BackEnd)
 
 ## TECHNOLOGIES USED:
 <br>
-**Eclipse**
+Eclipse
 <br>
-**Postman**
+Postman
 <br>
-**MongoDB**
+MongoDB
 
 ## J2EE ARCHITECTURE
 
