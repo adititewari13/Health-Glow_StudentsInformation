@@ -16,4 +16,11 @@ Spring Initializr: A Spring Boot project structure 'springs', with Web and Mongo
 ## J2EE ARCHITECTURE:
 ![image for J2EE ARCHITECTURE](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/J2EE_ARCH.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+README under construction
 
+![under construction](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/building.png)
