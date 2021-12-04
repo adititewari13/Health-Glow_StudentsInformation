@@ -3,8 +3,6 @@ Intern Assignment (BackEnd)
 
 
 ## TECHNOLOGIES USED:
-<br>
-
 Eclipse: [CODE](https://github.com/adititewari13/Health-Glow_StudentsInformation/tree/main/springs/src/main/java/com/springs/springs)
 <br>
 Postman
