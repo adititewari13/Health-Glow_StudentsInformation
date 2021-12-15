@@ -5,9 +5,9 @@ Intern Assignment (BackEnd)
 ## TECHNOLOGIES USED:
 Eclipse: [CODE](https://github.com/adititewari13/Health-Glow_StudentsInformation/tree/main/springs/src/main/java/com/springs/springs)
 <br>
-Postman
+Postman:  To create HTTP requests and validate that a specific API's response is correct.
 <br>
-MongoDB
+MongoDB: It provides flexible schema and makes it easy to evolve and store data.
 <br>
 Spring Initializr: A Spring Boot project structure 'springs', with Web and MongoDB dependencies, was created.
 
@@ -25,7 +25,7 @@ spring.data.mongodb.database= record
 ```
 
 ## API URLs for Student Information:
-![image for API URLs](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/URL_Table.png)
+![image for API URLs](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/API_URL_Table.png)
 <br>
 <br>
 <br>
