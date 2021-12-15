@@ -25,7 +25,7 @@ spring.data.mongodb.database= record
 ```
 
 ## API URLs for Student Information:
-![image for API URLs](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/URL_Table.png)
+![image for API URLs](https://github.com/adititewari13/Health-Glow_StudentsInformation/blob/main/readme_files/API_URL_Table.png)
 <br>
 <br>
 <br>
