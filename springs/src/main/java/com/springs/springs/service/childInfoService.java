@@ -47,6 +47,12 @@ public class childInfoService implements InfoService {
 	}
 	
 	@Override
+	public Student updateDet(Student e) {
+		d.save(e);
+		return e;
+	}
+	
+	@Override
 	public void deleteDet(long id)
 	{
 //		Optional<Student> s= d.findById(id);

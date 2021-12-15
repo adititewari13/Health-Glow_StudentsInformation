@@ -46,6 +46,11 @@ public Student insertDetails(@RequestBody Student e) {
 	return this.ins.insertDet(e);
 }
 
+@PostMapping("/infoOne/{id}")
+public Student updateDetails(@RequestBody Student e) {
+	return this.ins.updateDet(e);
+}
+
 
 @DeleteMapping("/infoOne/{id}")
 public ResponseEntity<HttpStatus> deleteDetails(@PathVariable long id)
