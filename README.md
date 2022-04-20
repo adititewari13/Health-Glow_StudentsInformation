@@ -1,5 +1,4 @@
-# Health-Glow_StudentsInformation
-Intern Assignment (BackEnd)
+# Students Information API
 
 
 ## TECHNOLOGIES USED:
